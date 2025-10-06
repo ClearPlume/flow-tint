@@ -1,0 +1,25 @@
+[project]
+name = "flow-tint"
+version = "0.1.0"
+description = "颜色语言模型"
+requires-python = ">=3.12"
+dependencies = [
+    "torch==2.8.0",
+    "tqdm==4.67.1",
+    "sentencepiece==0.2.1",
+    "numpy>=2.3.3",
+]
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu129" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu129"
+url = "https://download.pytorch.org/whl/cu129"
+explicit = true
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
