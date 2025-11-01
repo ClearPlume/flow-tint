@@ -530,8 +530,9 @@ result = tester.infer("深一点的森林绿")
 
 - [心潮涌链：它真的懂我说的话吗？](https://fallingangel.net/archives/xin-chao-yong-lian-ta-zhen-de-dong-wo-shuo-de-hua-ma) -
   LLM推理链路完整梳理
-- [韵染流光·其一：亮一些的蓝](https://fallingangel.net/categories/su-yuan-qiu-suo-du-xing) - 本项目的完整设计实践过程
-- [韵染流光·补遗：写不出的三百行](https://fallingangel.net/archives/yun-ran-liu-guang-qi-yi-dai-ma-san-bai-xing) -
+- [韵染流光 • 其一："亮一些的蓝"](https://fallingangel.net/archives/yun-ran-liu-guang-qi-yi-liang-yi-xie-de-lan) -
+  本项目的完整设计实践过程
+- [韵染流光 • 其一：代码三百行](https://fallingangel.net/archives/yun-ran-liu-guang-qi-yi-dai-ma-san-bai-xing) -
   从概念理解到代码实现的认知补全
 
 ---
