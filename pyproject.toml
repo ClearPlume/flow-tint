@@ -1,7 +1,7 @@
 [project]
 name = "flow-tint"
 version = "0.1.0"
-description = "颜色语言模型"
+description = "让AI理解\"深一点\"、\"亮一些\" - 自然语言颜色调整"
 requires-python = ">=3.12"
 dependencies = [
     "torch==2.8.0",
